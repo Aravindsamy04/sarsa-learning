@@ -104,17 +104,18 @@ def sarsa(env,
 
 ## OUTPUT:
 ### Optimal State Value Functions:
-![image](https://github.com/manojvenaram/sarsa-learning/assets/94165064/23a979ba-5dcf-4766-a12c-a60144e8a692)
+![Screenshot 2024-04-30 135822](https://github.com/Aravindsamy04/sarsa-learning/assets/113497037/b122e001-2020-4d52-bfeb-8dd0a770bc13)
 
-### Optimal Action Value Functions:
-![image](https://github.com/manojvenaram/sarsa-learning/assets/94165064/41a77c90-1b6f-4d52-97d5-6765607f276a)
 
 
 ### First Visit Monte Carlo Estimates
-![image](https://github.com/manojvenaram/sarsa-learning/assets/94165064/89283f2c-18bc-4551-afa4-2be944163ab8)
+
+![Screenshot 2024-04-30 135901](https://github.com/Aravindsamy04/sarsa-learning/assets/113497037/719f1943-f5bb-452c-9415-e34d7c7c4a74)
 
 ### Sarsa Estimates:
-![image](https://github.com/manojvenaram/sarsa-learning/assets/94165064/6050d026-abc4-4e0c-8e00-e0b350695327)
+
+![Screenshot 2024-04-30 135924](https://github.com/Aravindsamy04/sarsa-learning/assets/113497037/bdb9f560-e6e9-448c-b532-f4b37dc0f1b3)
+
 
 ## RESULT:
 Thus the optimal policy for the given RL environment is found using SARSA-Learning and the state values are compared with the Monte Carlo method.
